@@ -6,6 +6,8 @@ public class Sample {
         System.out.println("Hello Again!!");
 
         System.out.println("Chroma Tech");
+
+        System.out.println("Print again?");
     }
 
 }
